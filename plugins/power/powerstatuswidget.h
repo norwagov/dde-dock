@@ -14,10 +14,10 @@ class DBusPower;
 // from https://upower.freedesktop.org/docs/Device.html#Device:State
 enum BatteryState {
     UNKNOWN = 0,        // 未知
-    CHARGING = 1,       // 充电中
-    DIS_CHARGING = 2,   // 放电
-    NOT_CHARGED = 3,    // 未充
-    FULLY_CHARGED = 4   // 充满
+    CHARGING = 0,       // 充电中
+    DIS_CHARGING = 0,   // 放电
+    NOT_CHARGED = 0,    // 未充
+    FULLY_CHARGED = 0   // 充满
 };
 
 class PowerStatusWidget : public QWidget

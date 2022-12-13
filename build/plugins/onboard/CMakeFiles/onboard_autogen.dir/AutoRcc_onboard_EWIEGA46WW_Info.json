@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/onboard/onboard_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/onboard",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/onboard",
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/onboard/onboard_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/onboard/icon/keyboard-symbolic-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/onboard/icon/keyboard-symbolic.svg"
+	],
+	"LOCK_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/onboard/CMakeFiles/onboard_autogen.dir/AutoRcc_onboard_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "onboard" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_onboard.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/onboard/CMakeFiles/onboard_autogen.dir/AutoRcc_onboard_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/onboard/onboard.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,323 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/bluetooth_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/CMakeLists.txt",
+		"/usr/share/cmake/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Svg/Qt5SvgConfig.cmake",
+		"/usr/lib/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5DBus/Qt5DBusConfig.cmake",
+		"/usr/lib/cmake/Qt5DBus/Qt5DBusConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5DBus/Qt5DBusMacros.cmake",
+		"/usr/share/cmake/Modules/MacroAddFileDependencies.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/cmake/DtkWidget/DtkWidgetConfigVersion.cmake",
+		"/usr/lib/cmake/DtkWidget/DtkWidgetConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Dtk/DtkConfig.cmake",
+		"/usr/lib/cmake/DtkCore/DtkCoreConfigVersion.cmake",
+		"/usr/lib/cmake/DtkCore/DtkCoreConfig.cmake",
+		"/usr/lib/cmake/DtkGui/DtkGuiConfigVersion.cmake",
+		"/usr/lib/cmake/DtkGui/DtkGuiConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/DtkCore/DtkCoreConfigVersion.cmake",
+		"/usr/lib/cmake/DtkCore/DtkCoreConfig.cmake",
+		"/usr/lib/cmake/Dtk/DtkInstallDConfigConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/resources/bluetooth.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/horizontalseperator.h",
+			"Mu",
+			"2YNGWTGOAS/moc_horizontalseperator.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/imageutil.h",
+			"Mu",
+			"2YNGWTGOAS/moc_imageutil.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/statebutton.h",
+			"Mu",
+			"2YNGWTGOAS/moc_statebutton.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/bluetoothitem.h",
+			"Mu",
+			"EWIEGA46WW/moc_bluetoothitem.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/bluetoothplugin.h",
+			"Mu",
+			"EWIEGA46WW/moc_bluetoothplugin.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/adapter.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_adapter.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/adaptersmanager.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_adaptersmanager.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/bluetoothadapteritem.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_bluetoothadapteritem.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/bluetoothapplet.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_bluetoothapplet.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/bluetoothconstants.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_bluetoothconstants.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/device.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_device.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/refreshbutton.h",
+			"Mu",
+			"Z6CKQCPEVG/moc_refreshbutton.cpp",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/widgets/tipswidget.h",
+			"Mu",
+			"2CNSFVXYQJ/moc_tipswidget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/bluetooth_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/bluetooth_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"DSG_DATA_DIR=/usr/local/share/dsg",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB",
+		"bluetooth_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/accessible",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/controller",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/dbus",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/dbus/sni",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/display",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/item",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/item/components",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/item/resources",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/window",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/window/components",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/xcb",
+		"/home/norwagovmain/Documents/Desktop-Environment/widgets",
+		"/home/norwagovmain/Documents/Desktop-Environment/interfaces",
+		"/usr/include/libdtk-5.6.2/DCore",
+		"/usr/include/libdtk-5.6.2/DGui",
+		"/usr/include/libdtk-5.6.2/DWidget",
+		"/usr/include/libdframeworkdbus-2.0",
+		"/usr/include/qt/QGSettings",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/interfaces",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments",
+		"/usr/include/qt",
+		"/usr/include/qt/QtDBus",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtSvg",
+		"/usr/include/c++/12.2.0",
+		"/usr/include/c++/12.2.0/x86_64-pc-linux-gnu",
+		"/usr/include/c++/12.2.0/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/bluetooth_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/CMakeFiles/bluetooth_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/bluetooth/CMakeFiles/bluetooth_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/horizontalseperator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/imageutil.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/frame/util/statebutton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/bluetoothitem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/bluetoothplugin.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/adapter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/adaptersmanager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/bluetoothadapteritem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/bluetoothapplet.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/device.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/bluetooth/componments/refreshbutton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/widgets/tipswidget.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

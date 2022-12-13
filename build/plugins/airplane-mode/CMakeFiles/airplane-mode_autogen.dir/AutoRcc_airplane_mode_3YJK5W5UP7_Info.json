@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/airplane-mode/airplane-mode_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/airplane-mode",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode",
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/airplane-mode/airplane-mode_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode/resources/airplane-on.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode/resources/airplane-off.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode/resources/airplane-off-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode/resources/airplane-on-dark.svg"
+	],
+	"LOCK_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/airplane-mode/CMakeFiles/airplane-mode_autogen.dir/AutoRcc_airplane_mode_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "airplane_mode" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_airplane_mode.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/airplane-mode/CMakeFiles/airplane-mode_autogen.dir/AutoRcc_airplane_mode_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/airplane-mode/resources/airplane_mode.qrc",
+	"VERBOSITY" : 0
+}

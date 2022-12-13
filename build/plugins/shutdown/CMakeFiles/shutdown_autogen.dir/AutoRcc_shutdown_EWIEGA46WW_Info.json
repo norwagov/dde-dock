@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/shutdown/shutdown_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/shutdown",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/shutdown",
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/shutdown/shutdown_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/shutdown/resources/icons/system-shutdown.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/shutdown/resources/icons/fashion.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/shutdown/resources/icons/normal.svg"
+	],
+	"LOCK_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/shutdown/CMakeFiles/shutdown_autogen.dir/AutoRcc_shutdown_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "shutdown" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_shutdown.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/shutdown/CMakeFiles/shutdown_autogen.dir/AutoRcc_shutdown_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/shutdown/shutdown.qrc",
+	"VERBOSITY" : 0
+}

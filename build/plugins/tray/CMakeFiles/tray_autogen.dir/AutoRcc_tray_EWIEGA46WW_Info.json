@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/tray/tray_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/tray",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray",
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/tray/tray_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-right-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-up.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-left-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-right.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-left.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-up-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-down-dark.svg",
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/resources/arrow-down.svg"
+	],
+	"LOCK_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/tray/CMakeFiles/tray_autogen.dir/AutoRcc_tray_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "tray" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_tray.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/tray/CMakeFiles/tray_autogen.dir/AutoRcc_tray_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/tray/tray.qrc",
+	"VERBOSITY" : 0
+}

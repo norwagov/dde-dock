@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/overlay-warning/overlay-warning_autogen",
+	"CMAKE_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/overlay-warning",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/overlay-warning",
+	"CMAKE_SOURCE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock",
+	"INCLUDE_DIR" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/overlay-warning/overlay-warning_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/overlay-warning/resources/icons/overlay-warning.svg"
+	],
+	"LOCK_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/overlay-warning/CMakeFiles/overlay-warning_autogen.dir/AutoRcc_overlay-warning_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "overlay_warning" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_overlay-warning.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/build/plugins/overlay-warning/CMakeFiles/overlay-warning_autogen.dir/AutoRcc_overlay-warning_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/norwagovmain/Documents/Desktop-Environment/dde-dock/plugins/overlay-warning/overlay-warning.qrc",
+	"VERBOSITY" : 0
+}
